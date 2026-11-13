@@ -120,7 +120,6 @@ nav>ul>li>a:focus {
 }
 
 .slide ul {
-    display: flex;
     position: absolute;
 }
 
