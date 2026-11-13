@@ -269,7 +269,6 @@ footer {
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, .5);
-    border: 1px solid #333333;
     display: none;
 }
 
@@ -281,6 +280,7 @@ footer {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    border: 1px solid #333333;
     text-align: center;
 }
 
